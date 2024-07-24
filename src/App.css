@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.general { 
+  border: 2px solid rgb(243, 237, 237);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 22px;
+}
+.connect {
+  height: 40px;
+  width: 100%;
+}
+/* .btn1 {
+  border: 5px gray;
+}  */
+.btn3 {
+  background-color: rgb(93, 235, 103);
+  color: white;
+  font-size: medium;
+  border: white;
+  height: 40px;
+  width: 100%;
+  border-radius: 5px;
+}
+/* .logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+} */
+ 
+ 
